@@ -6,4 +6,4 @@ streamlit.header(' 📃 Breakfast Menu')
 
 streamlit.text(' 🥚🍞 Boiled Eggs and Toast') 
 streamlit.text(' 🍫🥞 Chocolate Pancakes')
-streamlit.text(' 🧇 Nuttella Waffles ')
+streamlit.text('  🧇  Nuttella Waffles ')
